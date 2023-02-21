@@ -1,4 +1,4 @@
-# Functions for computing the topographical variables for the 
+# R Functions for computing the topographical variables for the 
 # Tai Po Kau Forest Dynamics Plot, Hong Kong SAR
 
 # By Jinlong Zhang 
